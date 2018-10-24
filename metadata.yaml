@@ -1,11 +1,16 @@
 _repo: Report-of-the-Cromer-Ladies-Bible-Association-1838_58112
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58112-h/images/cover.jpg
 creator:
   author:
     agent_name: Association, Cromer Ladies' Bible
     gutenberg_agent_id: '49778'
     url: http://www.gutenberg.org/2009/agents/49778
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58112#Report-of-the-Cromer-Ladies-Bible-Association-1838
 gutenberg_issued: '2018-10-16'
 gutenberg_type: Text
 identifiers:
